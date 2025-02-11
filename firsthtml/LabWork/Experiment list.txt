@@ -3,3 +3,7 @@
 2. create a html file to demonstrate the use of table and list html tags 
 
 3. Create a html file to demonstrate the use of form element for ex: label, checkbox, radio button, Drop down, text area, password, submit and reset buttons , place holder, email etc.
+
+4. create an html page named as frames.html .
+    Divide the page into two columns of 20% and 80%size.
+    In 20% size call the hyperlinks for navigation frames.html , floating frames.html , mixedframe.html, noframe.html and make the page to be get displayed on the other column when these links are clicked
