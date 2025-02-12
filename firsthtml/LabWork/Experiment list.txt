@@ -7,3 +7,5 @@
 4. create an html page named as frames.html .
     Divide the page into two columns of 20% and 80%size.
     In 20% size call the hyperlinks for navigation frames.html , floating frames.html , mixedframe.html, noframe.html and make the page to be get displayed on the other column when these links are clicked
+
+5. Create an html page for using different image maps such as rectangle ,circle, polygons and mixed map.
