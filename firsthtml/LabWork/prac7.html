@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Window Object Functions</title>
+</head>
+<body>
+    <h1>Window Object Functions</h1>
+    <button onclick="showAlert()">Alert</button>
+    <button onclick="showPrompt()">Prompt</button>
+    <button onclick="showConfirm()">Confirm</button>
+    <button onclick="openNewWindow()">Open Window</button>
+    <button onclick="printPage()">Print</button>
+
+    <script>
+        function showAlert() {
+            alert("This is an alert box!");
+        }
+        function showPrompt() {
+            let userInput = prompt("Enter your name:");
+            if (userInput) {
+                alert("Hello, " + userInput);
+            }
+        }
+        function showConfirm() {
+            let response = confirm("Do you want to continue?");
+            alert(response ? "You pressed OK!" : "You pressed Cancel!");
+        }
+        function openNewWindow() {
+            window.open("https://www.example.com", "_blank");
+        }
+        function printPage() {
+            window.print();
+        }
+    </script>
+    
+</body>
+</html>
+

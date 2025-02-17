@@ -9,3 +9,9 @@
     In 20% size call the hyperlinks for navigation frames.html , floating frames.html , mixedframe.html, noframe.html and make the page to be get displayed on the other column when these links are clicked
 
 5. Create an html page for using different image maps such as rectangle ,circle, polygons and mixed map.
+
+6. Create an html file by applying the different styles using inline , internal(embedded) and external style sheet
+
+7. Create an html page to explain the use of various prre defined functions in window bject in javascript for ex : alert() , prompt() , confirm(), open(), close() and print().
+
+8. Create a javascript file by using different methods of displaying the output that is console.log(), inner html, document.write and window.alert .
