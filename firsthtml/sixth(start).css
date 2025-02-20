@@ -1,0 +1,34 @@
+h1{
+    color: green;
+
+}
+
+/* *{
+    color: red;
+    background-color: violet;
+}*/
+
+body{
+    color:red;
+}
+
+.geu{
+    color:blue;
+}
+
+#d1{
+
+    color:grey;
+}
+
+#v1{
+    background-color: red;
+}
+
+#v2{
+    background-color: aqua;
+}
+
+p.geu{
+   background-color: asparagus; 
+}
